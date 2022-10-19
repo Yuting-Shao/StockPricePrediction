@@ -10,7 +10,7 @@
   - install all the libraries in the requirements.txt
   - type the following command on the terminal: streamlit run app.py
 + public deployment:
-  - link [https://stock-price-prediction-v-0-1.herokuapp.com/](https://stock-price-prediction-v-0-1.herokuapp.com/)
+  - link [https://stock-price-prediction-toy.herokuapp.com/](https://stock-price-prediction-toy.herokuapp.com/)
   
 ## Snapshot of the app:
 ![snapshot1](img/snapshot1.png)

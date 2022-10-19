@@ -14,3 +14,4 @@
   
 ## Snapshot of the app:
 ![snapshot1](img/snapshot1.png)
+![snapshot2](img/snapshot2.png)
